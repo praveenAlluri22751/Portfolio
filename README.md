@@ -46,7 +46,7 @@ Stay peace :lotus_position:
 
 ![portfolio](./img/bgg.png)
 
-[Protfolio Link](https://ipa-portfolio.netlify.app/)
+[Protfolio Link](https://praveenalluri.com/)
 
 # Hangouts
 
